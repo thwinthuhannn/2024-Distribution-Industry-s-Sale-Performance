@@ -26,25 +26,25 @@ To track and compare **target vs. actual sales performance** across branches and
 
 ## 📁 Dashboard Features
 
-Sales Overview Cards: Display total target sales, actual sales, quantity sold, and total areas to give a high-level summary of business performance.
+**Sales Overview Cards:** Display total target sales, actual sales, quantity sold, and total areas to give a high-level summary of business performance.
 
-Branch Performance Analysis: Visual comparison of target and actual sales across multiple branches (e.g., Mandalay, Shwebo, Mawlamyaing, Myitkyina, etc.) to identify best and worst performers.
+**Branch Performance Analysis:** Visual comparison of target and actual sales across multiple branches (e.g., Mandalay, Shwebo, Mawlamyaing, Myitkyina, etc.) to identify best and worst performers.
 
-Target vs. Actual Comparison Chart: Evaluates how each branch is performing against its set sales targets, allowing easy identification of areas exceeding or falling short of goals.
+**Target vs. Actual Comparison Chart:** Evaluates how each branch is performing against its set sales targets, allowing easy identification of areas exceeding or falling short of goals.
 
-Sales by Category: Analyzes product-level performance across major categories — Dry Tea Leaves and Pickled Tea Leaves — providing insights into product demand.
+**Sales by Category:** Analyzes product-level performance across major categories — Dry Tea Leaves and Pickled Tea Leaves — providing insights into product demand.
 
-Area-Wise Target Analysis: Displays target distribution by 54 sales areas to evaluate geographic market performance and sales reach.
+**Area-Wise Target Analysis:** Displays target distribution by 54 sales areas to evaluate geographic market performance and sales reach.
 
-Top 5 Sales Areas and Products: Highlights the most profitable areas and top-selling product descriptions (e.g., 500g KNM, 1000g KNM, GF-Spicy) for strategic focus.
+**Top 5 Sales Areas and Products:** Highlights the most profitable areas and top-selling product descriptions (e.g., 500g KNM, 1000g KNM, GF-Spicy) for strategic focus.
 
-Monthly Sales Trends: Monitors total sales by month to uncover seasonal demand patterns and track progress toward targets throughout the year.
+**Monthly Sales Trends:** Monitors total sales by month to uncover seasonal demand patterns and track progress toward targets throughout the year.
 
-Daily Sales Patterns: Shows top-selling days of the week (e.g., Wednesday and Thursday) to optimize promotional and staffing strategies.
+**Daily Sales Patterns:** Shows top-selling days of the week (e.g., Wednesday and Thursday) to optimize promotional and staffing strategies.
 
-Interactive Filters and Slicers: Enables users to drill down by category, branch, or area for customized insights.
+**Interactive Filters and Slicers:** Enables users to drill down by category, branch, or area for customized insights.
 
-User-Friendly Layout: Clean design and consistent color themes improve readability and allow decision-makers to interpret data at a glance.
+**User-Friendly Layout:** Clean design and consistent color themes improve readability and allow decision-makers to interpret data at a glance.
 
 ---
 
